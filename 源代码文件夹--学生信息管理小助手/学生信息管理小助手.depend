@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1590824475 source:c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\main.c
+	"student.h"
+	"飞机作战游戏.h"
+	"贪吃蛇游戏.h"
+
+1590765381 c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
+1590765381 c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\飞机作战游戏.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1590765381 c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\贪吃蛇游戏.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1590767863 source:c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\stuchangelist.c
+	"student.h"
+
+1590826051 source:c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\student.c
+	"student.h"
+
+1590767721 source:c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\推箱子游戏.c
+	"student.h"
+
+1590765381 source:c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\贪吃蛇游戏.c
+	"贪吃蛇游戏.h"
+
+1590765381 source:c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\飞机作战游戏.c
+	"飞机作战游戏.h"
+
+1590765418 source:c:\users\zyf\desktop\dzy\学生信息管理小助手4.0\学生信息管理小助手\stufile.c
+	"student.h"
+
+1590824474 source:e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\main.c
+	"student.h"
+	"飞机作战游戏.h"
+	"贪吃蛇游戏.h"
+
+1590765380 e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
+1590765380 e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\飞机作战游戏.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1590765380 e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\贪吃蛇游戏.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1590767863 source:e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\stuchangelist.c
+	"student.h"
+
+1590826050 source:e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\student.c
+	"student.h"
+
+1591159025 source:e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\stufile.c
+	"student.h"
+
+1590767721 source:e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\推箱子游戏.c
+	"student.h"
+
+1591164014 source:e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\贪吃蛇游戏.c
+	"贪吃蛇游戏.h"
+
+1590765380 source:e:\c语言\学生信息管理小助手4.0\学生信息管理小助手\飞机作战游戏.c
+	"飞机作战游戏.h"
+
+1591436778 source:c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\main.c
+	"student.h"
+	"飞机作战游戏.h"
+	"贪吃蛇游戏.h"
+
+1591436380 c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
+1590765380 c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\飞机作战游戏.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1590765380 c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\贪吃蛇游戏.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1591436380 source:c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\stuchangelist.c
+	"student.h"
+
+1591436380 source:c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\student.c
+	"student.h"
+
+1591436380 source:c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\stufile.c
+	"student.h"
+
+1591432727 source:c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\推箱子游戏.c
+	"student.h"
+
+1591434443 source:c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\飞机作战游戏.c
+	"飞机作战游戏.h"
+
+1591434443 source:c:\users\zyf\desktop\学生信息管理小助手5.0\学生信息管理小助手4.0\学生信息管理小助手\贪吃蛇游戏.c
+	"贪吃蛇游戏.h"
+
+1591436778 source:c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\main.c
+	"student.h"
+	"飞机作战游戏.h"
+	"贪吃蛇游戏.h"
+
+1591436380 c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\student.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+
+1590765380 c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\飞机作战游戏.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
+1590765380 c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\贪吃蛇游戏.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1591436380 source:c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\stuchangelist.c
+	"student.h"
+
+1591436380 source:c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\stufile.c
+	"student.h"
+
+1591432727 source:c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\推箱子游戏.c
+	"student.h"
+
+1591434443 source:c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\贪吃蛇游戏.c
+	"贪吃蛇游戏.h"
+
+1591434443 source:c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\飞机作战游戏.c
+	"飞机作战游戏.h"
+
+1591531224 source:c:\users\zyf\desktop\提交作业\201900800469周芸帆_1\源代码文件夹\student.c
+	"student.h"
+
